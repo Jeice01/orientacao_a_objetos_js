@@ -1,0 +1,13 @@
+{
+  "name": "orientacao_a_objetos_javascript",
+  "version": "1.0.0",
+  "description": "Aprendendo conceitos fundamentais da orientação a objetos em JavaScript.",
+  "main": "npm start",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeice Santos",
+  "license": "ISC",
+  "type": "module"
+}
